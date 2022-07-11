@@ -1,2 +1,5 @@
-# BubbleShootx68
-Bubble Shoot game coded in x68 assembly language from the course Microprocessors at Polytechnic University of Valencia (Second Semester 2019)
+## BubbleShootx68
+- Academic Year 2018/2019. Third year Double Degree Telecommunication Engineering + Business. 
+- Polytechnic University of Valencia, Telecommunications Faculty.
+- Microprocessors Course
+- Bubble Shoot game coded in x68 assembly language
